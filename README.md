@@ -3,9 +3,13 @@ Capture and analyze network traffic, identify protocols, and troubleshoot networ
 
 ## Objectives
 Understand the basic functions of Wireshark.
+
 Capture live network traffic.
+
 Analyze captured packets to identify protocols and extract useful information.
+
 Utilize filters to focus on specific traffic types.
+
 Recognize common network issues through packet analysis.
 
 ## Chapter
